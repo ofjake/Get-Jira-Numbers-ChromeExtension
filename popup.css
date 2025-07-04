@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: .25rem .25rem 0;
+  width: 118px;
+  background-color: #F0B323;
+  color: #2c2c2c;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 1rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+.output {
+  margin: 0.25rem 0 1rem 0;
+  padding: 0.4rem;
+  background: #fff;
+  border-radius: 8px;
+  cursor: default;
+  user-select: all;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.copyable {
+  cursor: pointer;
+}
+
+.copyable:hover {
+  background-color: #e9dbba;
+  border-color: #b68209;
+}
