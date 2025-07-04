@@ -7,7 +7,7 @@ This Chrome Extension is built to extract Jira issue data from a ticket page and
 #### Features
 Runs on Jira issue pages<br>
 Extracts two key pieces of info:<br>
-The ticket ID from the URL (e.g., ABC-12345) and the mention link (e.g., MCC-38330)<br>
+The ticket ID from the URL (e.g., ABC-12345) and the mention link (e.g., ABC-54321)<br>
 <br>
 Then displays the extracted info in a popup UI with ticket ID and mention ID<br>
 Click-to-copy support
